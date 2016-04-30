@@ -1,0 +1,19 @@
+{
+  "name": "skylab-challenges",
+  "version": "1.0.0",
+  "description": "Set of Javascript problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "practise",
+    "javascript",
+    "problems"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.2"
+  }
+}
